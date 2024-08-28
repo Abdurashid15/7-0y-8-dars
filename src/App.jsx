@@ -5,7 +5,7 @@ function App() {
   return (
     <div>
       <div >
-        <CountrySelect ></CountrySelect>
+        <CountrySelect></CountrySelect>
       </div>
     </div>
   )
