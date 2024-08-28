@@ -1,0 +1,2815 @@
+[
+    {
+        "name": "South Georgia",
+        "flag": "https://flagcdn.com/w320/gs.png",
+        "currencies": {
+            "SHP": {
+                "name": "Saint Helena pound",
+                "symbol": "£",
+                "rateToUSD": "0.98"
+            }
+        }
+    },
+    {
+        "name": "Grenada",
+        "flag": "https://flagcdn.com/w320/gd.png",
+        "currencies": {
+            "XCD": {
+                "name": "Eastern Caribbean dollar",
+                "symbol": "$",
+                "rateToUSD": "0.60"
+            }
+        }
+    },
+    {
+        "name": "Switzerland",
+        "flag": "https://flagcdn.com/w320/ch.png",
+        "currencies": {
+            "CHF": {
+                "name": "Swiss franc",
+                "symbol": "Fr.",
+                "rateToUSD": "0.69"
+            }
+        }
+    },
+    {
+        "name": "Sierra Leone",
+        "flag": "https://flagcdn.com/w320/sl.png",
+        "currencies": {
+            "SLL": {
+                "name": "Sierra Leonean leone",
+                "symbol": "Le",
+                "rateToUSD": "1.81"
+            }
+        }
+    },
+    {
+        "name": "Hungary",
+        "flag": "https://flagcdn.com/w320/hu.png",
+        "currencies": {
+            "HUF": {
+                "name": "Hungarian forint",
+                "symbol": "Ft",
+                "rateToUSD": "0.62"
+            }
+        }
+    },
+    {
+        "name": "Taiwan",
+        "flag": "https://flagcdn.com/w320/tw.png",
+        "currencies": {
+            "TWD": {
+                "name": "New Taiwan dollar",
+                "symbol": "$",
+                "rateToUSD": "1.70"
+            }
+        }
+    },
+    {
+        "name": "Wallis and Futuna",
+        "flag": "https://flagcdn.com/w320/wf.png",
+        "currencies": {
+            "XPF": {
+                "name": "CFP franc",
+                "symbol": "₣",
+                "rateToUSD": "0.54"
+            }
+        }
+    },
+    {
+        "name": "Barbados",
+        "flag": "https://flagcdn.com/w320/bb.png",
+        "currencies": {
+            "BBD": {
+                "name": "Barbadian dollar",
+                "symbol": "$",
+                "rateToUSD": "0.81"
+            }
+        }
+    },
+    {
+        "name": "Pitcairn Islands",
+        "flag": "https://flagcdn.com/w320/pn.png",
+        "currencies": {
+            "NZD": {
+                "name": "New Zealand dollar",
+                "symbol": "$",
+                "rateToUSD": "1.00"
+            }
+        }
+    },
+    {
+        "name": "Ivory Coast",
+        "flag": "https://flagcdn.com/w320/ci.png",
+        "currencies": {
+            "XOF": {
+                "name": "West African CFA franc",
+                "symbol": "Fr",
+                "rateToUSD": "1.19"
+            }
+        }
+    },
+    {
+        "name": "Tunisia",
+        "flag": "https://flagcdn.com/w320/tn.png",
+        "currencies": {
+            "TND": {
+                "name": "Tunisian dinar",
+                "symbol": "د.ت",
+                "rateToUSD": "1.90"
+            }
+        }
+    },
+    {
+        "name": "Italy",
+        "flag": "https://flagcdn.com/w320/it.png",
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "€",
+                "rateToUSD": "1.35"
+            }
+        }
+    },
+    {
+        "name": "Benin",
+        "flag": "https://flagcdn.com/w320/bj.png",
+        "currencies": {
+            "XOF": {
+                "name": "West African CFA franc",
+                "symbol": "Fr",
+                "rateToUSD": "1.50"
+            }
+        }
+    },
+    {
+        "name": "Indonesia",
+        "flag": "https://flagcdn.com/w320/id.png",
+        "currencies": {
+            "IDR": {
+                "name": "Indonesian rupiah",
+                "symbol": "Rp",
+                "rateToUSD": "1.56"
+            }
+        }
+    },
+    {
+        "name": "Cape Verde",
+        "flag": "https://flagcdn.com/w320/cv.png",
+        "currencies": {
+            "CVE": {
+                "name": "Cape Verdean escudo",
+                "symbol": "Esc",
+                "rateToUSD": "1.88"
+            }
+        }
+    },
+    {
+        "name": "Saint Kitts and Nevis",
+        "flag": "https://flagcdn.com/w320/kn.png",
+        "currencies": {
+            "XCD": {
+                "name": "Eastern Caribbean dollar",
+                "symbol": "$",
+                "rateToUSD": "1.03"
+            }
+        }
+    },
+    {
+        "name": "Laos",
+        "flag": "https://flagcdn.com/w320/la.png",
+        "currencies": {
+            "LAK": {
+                "name": "Lao kip",
+                "symbol": "₭",
+                "rateToUSD": "0.67"
+            }
+        }
+    },
+    {
+        "name": "Caribbean Netherlands",
+        "flag": "https://flagcdn.com/w320/bq.png",
+        "currencies": {
+            "USD": {
+                "name": "United States dollar",
+                "symbol": "$",
+                "rateToUSD": "1.20"
+            }
+        }
+    },
+    {
+        "name": "Uganda",
+        "flag": "https://flagcdn.com/w320/ug.png",
+        "currencies": {
+            "UGX": {
+                "name": "Ugandan shilling",
+                "symbol": "Sh",
+                "rateToUSD": "1.94"
+            }
+        }
+    },
+    {
+        "name": "Andorra",
+        "flag": "https://flagcdn.com/w320/ad.png",
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "€",
+                "rateToUSD": "1.43"
+            }
+        }
+    },
+    {
+        "name": "Burundi",
+        "flag": "https://flagcdn.com/w320/bi.png",
+        "currencies": {
+            "BIF": {
+                "name": "Burundian franc",
+                "symbol": "Fr",
+                "rateToUSD": "1.17"
+            }
+        }
+    },
+    {
+        "name": "South Africa",
+        "flag": "https://flagcdn.com/w320/za.png",
+        "currencies": {
+            "ZAR": {
+                "name": "South African rand",
+                "symbol": "R",
+                "rateToUSD": "0.55"
+            }
+        }
+    },
+    {
+        "name": "France",
+        "flag": "https://flagcdn.com/w320/fr.png",
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "€",
+                "rateToUSD": "0.92"
+            }
+        }
+    },
+    {
+        "name": "Libya",
+        "flag": "https://flagcdn.com/w320/ly.png",
+        "currencies": {
+            "LYD": {
+                "name": "Libyan dinar",
+                "symbol": "ل.د",
+                "rateToUSD": "0.54"
+            }
+        }
+    },
+    {
+        "name": "Mexico",
+        "flag": "https://flagcdn.com/w320/mx.png",
+        "currencies": {
+            "MXN": {
+                "name": "Mexican peso",
+                "symbol": "$",
+                "rateToUSD": "0.67"
+            }
+        }
+    },
+    {
+        "name": "Gabon",
+        "flag": "https://flagcdn.com/w320/ga.png",
+        "currencies": {
+            "XAF": {
+                "name": "Central African CFA franc",
+                "symbol": "Fr",
+                "rateToUSD": "1.40"
+            }
+        }
+    },
+    {
+        "name": "Northern Mariana Islands",
+        "flag": "https://flagcdn.com/w320/mp.png",
+        "currencies": {
+            "USD": {
+                "name": "United States dollar",
+                "symbol": "$",
+                "rateToUSD": "0.72"
+            }
+        }
+    },
+    {
+        "name": "North Macedonia",
+        "flag": "https://flagcdn.com/w320/mk.png",
+        "currencies": {
+            "MKD": {
+                "name": "denar",
+                "symbol": "den",
+                "rateToUSD": "0.83"
+            }
+        }
+    },
+    {
+        "name": "China",
+        "flag": "https://flagcdn.com/w320/cn.png",
+        "currencies": {
+            "CNY": {
+                "name": "Chinese yuan",
+                "symbol": "¥",
+                "rateToUSD": "0.94"
+            }
+        }
+    },
+    {
+        "name": "Yemen",
+        "flag": "https://flagcdn.com/w320/ye.png",
+        "currencies": {
+            "YER": {
+                "name": "Yemeni rial",
+                "symbol": "﷼",
+                "rateToUSD": "1.56"
+            }
+        }
+    },
+    {
+        "name": "Saint Barthélemy",
+        "flag": "https://flagcdn.com/w320/bl.png",
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "€",
+                "rateToUSD": "1.87"
+            }
+        }
+    },
+    {
+        "name": "Guernsey",
+        "flag": "https://flagcdn.com/w320/gg.png",
+        "currencies": {
+            "GBP": {
+                "name": "British pound",
+                "symbol": "£",
+                "rateToUSD": "1.99"
+            },
+            "GGP": {
+                "name": "Guernsey pound",
+                "symbol": "£"
+            }
+        }
+    },
+    {
+        "name": "Solomon Islands",
+        "flag": "https://flagcdn.com/w320/sb.png",
+        "currencies": {
+            "SBD": {
+                "name": "Solomon Islands dollar",
+                "symbol": "$",
+                "rateToUSD": "1.96"
+            }
+        }
+    },
+    {
+        "name": "Svalbard and Jan Mayen",
+        "flag": "https://flagcdn.com/w320/sj.png",
+        "currencies": {
+            "NOK": {
+                "name": "krone",
+                "symbol": "kr",
+                "rateToUSD": "1.46"
+            }
+        }
+    },
+    {
+        "name": "Faroe Islands",
+        "flag": "https://flagcdn.com/w320/fo.png",
+        "currencies": {
+            "DKK": {
+                "name": "Danish krone",
+                "symbol": "kr",
+                "rateToUSD": "1.41"
+            },
+            "FOK": {
+                "name": "Faroese króna",
+                "symbol": "kr"
+            }
+        }
+    },
+    {
+        "name": "Uzbekistan",
+        "flag": "https://flagcdn.com/w320/uz.png",
+        "currencies": {
+            "UZS": {
+                "name": "Uzbekistani soʻm",
+                "symbol": "so'm",
+                "rateToUSD": "0.54"
+            }
+        }
+    },
+    {
+        "name": "Egypt",
+        "flag": "https://flagcdn.com/w320/eg.png",
+        "currencies": {
+            "EGP": {
+                "name": "Egyptian pound",
+                "symbol": "£",
+                "rateToUSD": "1.46"
+            }
+        }
+    },
+    {
+        "name": "Senegal",
+        "flag": "https://flagcdn.com/w320/sn.png",
+        "currencies": {
+            "XOF": {
+                "name": "West African CFA franc",
+                "symbol": "Fr",
+                "rateToUSD": "1.99"
+            }
+        }
+    },
+    {
+        "name": "Sri Lanka",
+        "flag": "https://flagcdn.com/w320/lk.png",
+        "currencies": {
+            "LKR": {
+                "name": "Sri Lankan rupee",
+                "symbol": "Rs  රු",
+                "rateToUSD": "0.82"
+            }
+        }
+    },
+    {
+        "name": "Palestine",
+        "flag": "https://flagcdn.com/w320/ps.png",
+        "currencies": {
+            "EGP": {
+                "name": "Egyptian pound",
+                "symbol": "E£",
+                "rateToUSD": "1.03"
+            },
+            "ILS": {
+                "name": "Israeli new shekel",
+                "symbol": "₪"
+            },
+            "JOD": {
+                "name": "Jordanian dinar",
+                "symbol": "JD"
+            }
+        }
+    },
+    {
+        "name": "Bangladesh",
+        "flag": "https://flagcdn.com/w320/bd.png",
+        "currencies": {
+            "BDT": {
+                "name": "Bangladeshi taka",
+                "symbol": "৳",
+                "rateToUSD": "1.47"
+            }
+        }
+    },
+    {
+        "name": "Peru",
+        "flag": "https://flagcdn.com/w320/pe.png",
+        "currencies": {
+            "PEN": {
+                "name": "Peruvian sol",
+                "symbol": "S/ ",
+                "rateToUSD": "1.08"
+            }
+        }
+    },
+    {
+        "name": "Singapore",
+        "flag": "https://flagcdn.com/w320/sg.png",
+        "currencies": {
+            "SGD": {
+                "name": "Singapore dollar",
+                "symbol": "$",
+                "rateToUSD": "1.19"
+            }
+        }
+    },
+    {
+        "name": "Turkey",
+        "flag": "https://flagcdn.com/w320/tr.png",
+        "currencies": {
+            "TRY": {
+                "name": "Turkish lira",
+                "symbol": "₺",
+                "rateToUSD": "0.87"
+            }
+        }
+    },
+    {
+        "name": "Afghanistan",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_the_Taliban.svg/320px-Flag_of_the_Taliban.svg.png",
+        "currencies": {
+            "AFN": {
+                "name": "Afghan afghani",
+                "symbol": "؋",
+                "rateToUSD": "1.33"
+            }
+        }
+    },
+    {
+        "name": "Aruba",
+        "flag": "https://flagcdn.com/w320/aw.png",
+        "currencies": {
+            "AWG": {
+                "name": "Aruban florin",
+                "symbol": "ƒ",
+                "rateToUSD": "1.75"
+            }
+        }
+    },
+    {
+        "name": "Cook Islands",
+        "flag": "https://flagcdn.com/w320/ck.png",
+        "currencies": {
+            "CKD": {
+                "name": "Cook Islands dollar",
+                "symbol": "$",
+                "rateToUSD": "0.79"
+            },
+            "NZD": {
+                "name": "New Zealand dollar",
+                "symbol": "$"
+            }
+        }
+    },
+    {
+        "name": "United Kingdom",
+        "flag": "https://flagcdn.com/w320/gb.png",
+        "currencies": {
+            "GBP": {
+                "name": "British pound",
+                "symbol": "£",
+                "rateToUSD": "1.72"
+            }
+        }
+    },
+    {
+        "name": "Zambia",
+        "flag": "https://flagcdn.com/w320/zm.png",
+        "currencies": {
+            "ZMW": {
+                "name": "Zambian kwacha",
+                "symbol": "ZK",
+                "rateToUSD": "1.49"
+            }
+        }
+    },
+    {
+        "name": "Finland",
+        "flag": "https://flagcdn.com/w320/fi.png",
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "€",
+                "rateToUSD": "0.88"
+            }
+        }
+    },
+    {
+        "name": "Niger",
+        "flag": "https://flagcdn.com/w320/ne.png",
+        "currencies": {
+            "XOF": {
+                "name": "West African CFA franc",
+                "symbol": "Fr",
+                "rateToUSD": "1.21"
+            }
+        }
+    },
+    {
+        "name": "Christmas Island",
+        "flag": "https://flagcdn.com/w320/cx.png",
+        "currencies": {
+            "AUD": {
+                "name": "Australian dollar",
+                "symbol": "$",
+                "rateToUSD": "0.72"
+            }
+        }
+    },
+    {
+        "name": "Tokelau",
+        "flag": "https://flagcdn.com/w320/tk.png",
+        "currencies": {
+            "NZD": {
+                "name": "New Zealand dollar",
+                "symbol": "$",
+                "rateToUSD": "1.73"
+            }
+        }
+    },
+    {
+        "name": "Guinea-Bissau",
+        "flag": "https://flagcdn.com/w320/gw.png",
+        "currencies": {
+            "XOF": {
+                "name": "West African CFA franc",
+                "symbol": "Fr",
+                "rateToUSD": "1.39"
+            }
+        }
+    },
+    {
+        "name": "Azerbaijan",
+        "flag": "https://flagcdn.com/w320/az.png",
+        "currencies": {
+            "AZN": {
+                "name": "Azerbaijani manat",
+                "symbol": "₼",
+                "rateToUSD": "1.73"
+            }
+        }
+    },
+    {
+        "name": "Réunion",
+        "flag": "https://flagcdn.com/w320/re.png",
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "€",
+                "rateToUSD": "0.64"
+            }
+        }
+    },
+    {
+        "name": "Djibouti",
+        "flag": "https://flagcdn.com/w320/dj.png",
+        "currencies": {
+            "DJF": {
+                "name": "Djiboutian franc",
+                "symbol": "Fr",
+                "rateToUSD": "1.75"
+            }
+        }
+    },
+    {
+        "name": "North Korea",
+        "flag": "https://flagcdn.com/w320/kp.png",
+        "currencies": {
+            "KPW": {
+                "name": "North Korean won",
+                "symbol": "₩",
+                "rateToUSD": "1.21"
+            }
+        }
+    },
+    {
+        "name": "Mauritius",
+        "flag": "https://flagcdn.com/w320/mu.png",
+        "currencies": {
+            "MUR": {
+                "name": "Mauritian rupee",
+                "symbol": "₨",
+                "rateToUSD": "0.54"
+            }
+        }
+    },
+    {
+        "name": "Montserrat",
+        "flag": "https://flagcdn.com/w320/ms.png",
+        "currencies": {
+            "XCD": {
+                "name": "Eastern Caribbean dollar",
+                "symbol": "$",
+                "rateToUSD": "1.22"
+            }
+        }
+    },
+    {
+        "name": "United States Virgin Islands",
+        "flag": "https://flagcdn.com/w320/vi.png",
+        "currencies": {
+            "USD": {
+                "name": "United States dollar",
+                "symbol": "$",
+                "rateToUSD": "1.28"
+            }
+        }
+    },
+    {
+        "name": "Colombia",
+        "flag": "https://flagcdn.com/w320/co.png",
+        "currencies": {
+            "COP": {
+                "name": "Colombian peso",
+                "symbol": "$",
+                "rateToUSD": "1.95"
+            }
+        }
+    },
+    {
+        "name": "Greece",
+        "flag": "https://flagcdn.com/w320/gr.png",
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "€",
+                "rateToUSD": "0.59"
+            }
+        }
+    },
+    {
+        "name": "Croatia",
+        "flag": "https://flagcdn.com/w320/hr.png",
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "€",
+                "rateToUSD": "0.62"
+            }
+        }
+    },
+    {
+        "name": "Morocco",
+        "flag": "https://flagcdn.com/w320/ma.png",
+        "currencies": {
+            "MAD": {
+                "name": "Moroccan dirham",
+                "symbol": "د.م.",
+                "rateToUSD": "1.66"
+            }
+        }
+    },
+    {
+        "name": "Algeria",
+        "flag": "https://flagcdn.com/w320/dz.png",
+        "currencies": {
+            "DZD": {
+                "name": "Algerian dinar",
+                "symbol": "د.ج",
+                "rateToUSD": "1.18"
+            }
+        }
+    },
+    {
+        "name": "Antarctica",
+        "flag": "https://flagcdn.com/w320/aq.png"
+    },
+    {
+        "name": "Netherlands",
+        "flag": "https://flagcdn.com/w320/nl.png",
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "€",
+                "rateToUSD": "1.28"
+            }
+        }
+    },
+    {
+        "name": "Sudan",
+        "flag": "https://flagcdn.com/w320/sd.png",
+        "currencies": {
+            "SDG": {
+                "name": "Sudanese pound",
+                "symbol": "ج.س",
+                "rateToUSD": "0.79"
+            }
+        }
+    },
+    {
+        "name": "Fiji",
+        "flag": "https://flagcdn.com/w320/fj.png",
+        "currencies": {
+            "FJD": {
+                "name": "Fijian dollar",
+                "symbol": "$",
+                "rateToUSD": "1.08"
+            }
+        }
+    },
+    {
+        "name": "Liechtenstein",
+        "flag": "https://flagcdn.com/w320/li.png",
+        "currencies": {
+            "CHF": {
+                "name": "Swiss franc",
+                "symbol": "Fr",
+                "rateToUSD": "1.43"
+            }
+        }
+    },
+    {
+        "name": "Nepal",
+        "flag": "https://flagcdn.com/w320/np.png",
+        "currencies": {
+            "NPR": {
+                "name": "Nepalese rupee",
+                "symbol": "₨",
+                "rateToUSD": "0.96"
+            }
+        }
+    },
+    {
+        "name": "Puerto Rico",
+        "flag": "https://flagcdn.com/w320/pr.png",
+        "currencies": {
+            "USD": {
+                "name": "United States dollar",
+                "symbol": "$",
+                "rateToUSD": "1.15"
+            }
+        }
+    },
+    {
+        "name": "Georgia",
+        "flag": "https://flagcdn.com/w320/ge.png",
+        "currencies": {
+            "GEL": {
+                "name": "lari",
+                "symbol": "₾",
+                "rateToUSD": "1.97"
+            }
+        }
+    },
+    {
+        "name": "Pakistan",
+        "flag": "https://flagcdn.com/w320/pk.png",
+        "currencies": {
+            "PKR": {
+                "name": "Pakistani rupee",
+                "symbol": "₨",
+                "rateToUSD": "0.83"
+            }
+        }
+    },
+    {
+        "name": "Monaco",
+        "flag": "https://flagcdn.com/w320/mc.png",
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "€",
+                "rateToUSD": "1.36"
+            }
+        }
+    },
+    {
+        "name": "Botswana",
+        "flag": "https://flagcdn.com/w320/bw.png",
+        "currencies": {
+            "BWP": {
+                "name": "Botswana pula",
+                "symbol": "P",
+                "rateToUSD": "1.36"
+            }
+        }
+    },
+    {
+        "name": "Lebanon",
+        "flag": "https://flagcdn.com/w320/lb.png",
+        "currencies": {
+            "LBP": {
+                "name": "Lebanese pound",
+                "symbol": "ل.ل",
+                "rateToUSD": "1.08"
+            }
+        }
+    },
+    {
+        "name": "Papua New Guinea",
+        "flag": "https://flagcdn.com/w320/pg.png",
+        "currencies": {
+            "PGK": {
+                "name": "Papua New Guinean kina",
+                "symbol": "K",
+                "rateToUSD": "1.47"
+            }
+        }
+    },
+    {
+        "name": "Mayotte",
+        "flag": "https://flagcdn.com/w320/yt.png",
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "€",
+                "rateToUSD": "1.21"
+            }
+        }
+    },
+    {
+        "name": "Dominican Republic",
+        "flag": "https://flagcdn.com/w320/do.png",
+        "currencies": {
+            "DOP": {
+                "name": "Dominican peso",
+                "symbol": "$",
+                "rateToUSD": "1.60"
+            }
+        }
+    },
+    {
+        "name": "Norfolk Island",
+        "flag": "https://flagcdn.com/w320/nf.png",
+        "currencies": {
+            "AUD": {
+                "name": "Australian dollar",
+                "symbol": "$",
+                "rateToUSD": "1.16"
+            }
+        }
+    },
+    {
+        "name": "Bouvet Island",
+        "flag": "https://flagcdn.com/w320/bv.png"
+    },
+    {
+        "name": "Qatar",
+        "flag": "https://flagcdn.com/w320/qa.png",
+        "currencies": {
+            "QAR": {
+                "name": "Qatari riyal",
+                "symbol": "ر.ق",
+                "rateToUSD": "0.70"
+            }
+        }
+    },
+    {
+        "name": "Madagascar",
+        "flag": "https://flagcdn.com/w320/mg.png",
+        "currencies": {
+            "MGA": {
+                "name": "Malagasy ariary",
+                "symbol": "Ar",
+                "rateToUSD": "0.76"
+            }
+        }
+    },
+    {
+        "name": "India",
+        "flag": "https://flagcdn.com/w320/in.png",
+        "currencies": {
+            "INR": {
+                "name": "Indian rupee",
+                "symbol": "₹",
+                "rateToUSD": "1.10"
+            }
+        }
+    },
+    {
+        "name": "Syria",
+        "flag": "https://flagcdn.com/w320/sy.png",
+        "currencies": {
+            "SYP": {
+                "name": "Syrian pound",
+                "symbol": "£",
+                "rateToUSD": "1.98"
+            }
+        }
+    },
+    {
+        "name": "Montenegro",
+        "flag": "https://flagcdn.com/w320/me.png",
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "€",
+                "rateToUSD": "0.99"
+            }
+        }
+    },
+    {
+        "name": "Eswatini",
+        "flag": "https://flagcdn.com/w320/sz.png",
+        "currencies": {
+            "SZL": {
+                "name": "Swazi lilangeni",
+                "symbol": "L",
+                "rateToUSD": "1.09"
+            },
+            "ZAR": {
+                "name": "South African rand",
+                "symbol": "R"
+            }
+        }
+    },
+    {
+        "name": "Paraguay",
+        "flag": "https://flagcdn.com/w320/py.png",
+        "currencies": {
+            "PYG": {
+                "name": "Paraguayan guaraní",
+                "symbol": "₲",
+                "rateToUSD": "1.09"
+            }
+        }
+    },
+    {
+        "name": "El Salvador",
+        "flag": "https://flagcdn.com/w320/sv.png",
+        "currencies": {
+            "USD": {
+                "name": "United States dollar",
+                "symbol": "$",
+                "rateToUSD": "1.62"
+            }
+        }
+    },
+    {
+        "name": "Ukraine",
+        "flag": "https://flagcdn.com/w320/ua.png",
+        "currencies": {
+            "UAH": {
+                "name": "Ukrainian hryvnia",
+                "symbol": "₴",
+                "rateToUSD": "1.48"
+            }
+        }
+    },
+    {
+        "name": "Isle of Man",
+        "flag": "https://flagcdn.com/w320/im.png",
+        "currencies": {
+            "GBP": {
+                "name": "British pound",
+                "symbol": "£",
+                "rateToUSD": "1.45"
+            },
+            "IMP": {
+                "name": "Manx pound",
+                "symbol": "£"
+            }
+        }
+    },
+    {
+        "name": "Namibia",
+        "flag": "https://flagcdn.com/w320/na.png",
+        "currencies": {
+            "NAD": {
+                "name": "Namibian dollar",
+                "symbol": "$",
+                "rateToUSD": "1.23"
+            },
+            "ZAR": {
+                "name": "South African rand",
+                "symbol": "R"
+            }
+        }
+    },
+    {
+        "name": "United Arab Emirates",
+        "flag": "https://flagcdn.com/w320/ae.png",
+        "currencies": {
+            "AED": {
+                "name": "United Arab Emirates dirham",
+                "symbol": "د.إ",
+                "rateToUSD": "1.37"
+            }
+        }
+    },
+    {
+        "name": "Bulgaria",
+        "flag": "https://flagcdn.com/w320/bg.png",
+        "currencies": {
+            "BGN": {
+                "name": "Bulgarian lev",
+                "symbol": "лв",
+                "rateToUSD": "0.94"
+            }
+        }
+    },
+    {
+        "name": "Greenland",
+        "flag": "https://flagcdn.com/w320/gl.png",
+        "currencies": {
+            "DKK": {
+                "name": "krone",
+                "symbol": "kr.",
+                "rateToUSD": "1.84"
+            }
+        }
+    },
+    {
+        "name": "Germany",
+        "flag": "https://flagcdn.com/w320/de.png",
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "€",
+                "rateToUSD": "1.77"
+            }
+        }
+    },
+    {
+        "name": "Cambodia",
+        "flag": "https://flagcdn.com/w320/kh.png",
+        "currencies": {
+            "KHR": {
+                "name": "Cambodian riel",
+                "symbol": "៛",
+                "rateToUSD": "0.53"
+            },
+            "USD": {
+                "name": "United States dollar",
+                "symbol": "$"
+            }
+        }
+    },
+    {
+        "name": "Iraq",
+        "flag": "https://flagcdn.com/w320/iq.png",
+        "currencies": {
+            "IQD": {
+                "name": "Iraqi dinar",
+                "symbol": "ع.د",
+                "rateToUSD": "1.50"
+            }
+        }
+    },
+    {
+        "name": "French Southern and Antarctic Lands",
+        "flag": "https://flagcdn.com/w320/tf.png",
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "€",
+                "rateToUSD": "1.07"
+            }
+        }
+    },
+    {
+        "name": "Sweden",
+        "flag": "https://flagcdn.com/w320/se.png",
+        "currencies": {
+            "SEK": {
+                "name": "Swedish krona",
+                "symbol": "kr",
+                "rateToUSD": "1.57"
+            }
+        }
+    },
+    {
+        "name": "Cuba",
+        "flag": "https://flagcdn.com/w320/cu.png",
+        "currencies": {
+            "CUC": {
+                "name": "Cuban convertible peso",
+                "symbol": "$",
+                "rateToUSD": "0.56"
+            },
+            "CUP": {
+                "name": "Cuban peso",
+                "symbol": "$"
+            }
+        }
+    },
+    {
+        "name": "Kyrgyzstan",
+        "flag": "https://flagcdn.com/w320/kg.png",
+        "currencies": {
+            "KGS": {
+                "name": "Kyrgyzstani som",
+                "symbol": "с",
+                "rateToUSD": "0.88"
+            }
+        }
+    },
+    {
+        "name": "Russia",
+        "flag": "https://flagcdn.com/w320/ru.png",
+        "currencies": {
+            "RUB": {
+                "name": "Russian ruble",
+                "symbol": "₽",
+                "rateToUSD": "1.19"
+            }
+        }
+    },
+    {
+        "name": "Malaysia",
+        "flag": "https://flagcdn.com/w320/my.png",
+        "currencies": {
+            "MYR": {
+                "name": "Malaysian ringgit",
+                "symbol": "RM",
+                "rateToUSD": "1.25"
+            }
+        }
+    },
+    {
+        "name": "São Tomé and Príncipe",
+        "flag": "https://flagcdn.com/w320/st.png",
+        "currencies": {
+            "STN": {
+                "name": "São Tomé and Príncipe dobra",
+                "symbol": "Db",
+                "rateToUSD": "1.54"
+            }
+        }
+    },
+    {
+        "name": "Cyprus",
+        "flag": "https://flagcdn.com/w320/cy.png",
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "€",
+                "rateToUSD": "1.59"
+            }
+        }
+    },
+    {
+        "name": "Canada",
+        "flag": "https://flagcdn.com/w320/ca.png",
+        "currencies": {
+            "CAD": {
+                "name": "Canadian dollar",
+                "symbol": "$",
+                "rateToUSD": "1.39"
+            }
+        }
+    },
+    {
+        "name": "Malawi",
+        "flag": "https://flagcdn.com/w320/mw.png",
+        "currencies": {
+            "MWK": {
+                "name": "Malawian kwacha",
+                "symbol": "MK",
+                "rateToUSD": "1.35"
+            }
+        }
+    },
+    {
+        "name": "Saudi Arabia",
+        "flag": "https://flagcdn.com/w320/sa.png",
+        "currencies": {
+            "SAR": {
+                "name": "Saudi riyal",
+                "symbol": "ر.س",
+                "rateToUSD": "0.69"
+            }
+        }
+    },
+    {
+        "name": "Bosnia and Herzegovina",
+        "flag": "https://flagcdn.com/w320/ba.png",
+        "currencies": {
+            "BAM": {
+                "name": "Bosnia and Herzegovina convertible mark",
+                "symbol": "KM",
+                "rateToUSD": "1.17"
+            }
+        }
+    },
+    {
+        "name": "Ethiopia",
+        "flag": "https://flagcdn.com/w320/et.png",
+        "currencies": {
+            "ETB": {
+                "name": "Ethiopian birr",
+                "symbol": "Br",
+                "rateToUSD": "1.90"
+            }
+        }
+    },
+    {
+        "name": "Spain",
+        "flag": "https://flagcdn.com/w320/es.png",
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "€",
+                "rateToUSD": "1.13"
+            }
+        }
+    },
+    {
+        "name": "Slovenia",
+        "flag": "https://flagcdn.com/w320/si.png",
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "€",
+                "rateToUSD": "1.22"
+            }
+        }
+    },
+    {
+        "name": "Oman",
+        "flag": "https://flagcdn.com/w320/om.png",
+        "currencies": {
+            "OMR": {
+                "name": "Omani rial",
+                "symbol": "ر.ع.",
+                "rateToUSD": "1.90"
+            }
+        }
+    },
+    {
+        "name": "Saint Pierre and Miquelon",
+        "flag": "https://flagcdn.com/w320/pm.png",
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "€",
+                "rateToUSD": "1.94"
+            }
+        }
+    },
+    {
+        "name": "Macau",
+        "flag": "https://flagcdn.com/w320/mo.png",
+        "currencies": {
+            "MOP": {
+                "name": "Macanese pataca",
+                "symbol": "P",
+                "rateToUSD": "1.03"
+            }
+        }
+    },
+    {
+        "name": "San Marino",
+        "flag": "https://flagcdn.com/w320/sm.png",
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "€",
+                "rateToUSD": "1.46"
+            }
+        }
+    },
+    {
+        "name": "Lesotho",
+        "flag": "https://flagcdn.com/w320/ls.png",
+        "currencies": {
+            "LSL": {
+                "name": "Lesotho loti",
+                "symbol": "L",
+                "rateToUSD": "1.78"
+            },
+            "ZAR": {
+                "name": "South African rand",
+                "symbol": "R"
+            }
+        }
+    },
+    {
+        "name": "Marshall Islands",
+        "flag": "https://flagcdn.com/w320/mh.png",
+        "currencies": {
+            "USD": {
+                "name": "United States dollar",
+                "symbol": "$",
+                "rateToUSD": "0.89"
+            }
+        }
+    },
+    {
+        "name": "Sint Maarten",
+        "flag": "https://flagcdn.com/w320/sx.png",
+        "currencies": {
+            "ANG": {
+                "name": "Netherlands Antillean guilder",
+                "symbol": "ƒ",
+                "rateToUSD": "0.87"
+            }
+        }
+    },
+    {
+        "name": "Iceland",
+        "flag": "https://flagcdn.com/w320/is.png",
+        "currencies": {
+            "ISK": {
+                "name": "Icelandic króna",
+                "symbol": "kr",
+                "rateToUSD": "1.61"
+            }
+        }
+    },
+    {
+        "name": "Luxembourg",
+        "flag": "https://flagcdn.com/w320/lu.png",
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "€",
+                "rateToUSD": "1.40"
+            }
+        }
+    },
+    {
+        "name": "Argentina",
+        "flag": "https://flagcdn.com/w320/ar.png",
+        "currencies": {
+            "ARS": {
+                "name": "Argentine peso",
+                "symbol": "$",
+                "rateToUSD": "1.73"
+            }
+        }
+    },
+    {
+        "name": "Turks and Caicos Islands",
+        "flag": "https://flagcdn.com/w320/tc.png",
+        "currencies": {
+            "USD": {
+                "name": "United States dollar",
+                "symbol": "$",
+                "rateToUSD": "1.33"
+            }
+        }
+    },
+    {
+        "name": "Nauru",
+        "flag": "https://flagcdn.com/w320/nr.png",
+        "currencies": {
+            "AUD": {
+                "name": "Australian dollar",
+                "symbol": "$",
+                "rateToUSD": "1.31"
+            }
+        }
+    },
+    {
+        "name": "Cocos (Keeling) Islands",
+        "flag": "https://flagcdn.com/w320/cc.png",
+        "currencies": {
+            "AUD": {
+                "name": "Australian dollar",
+                "symbol": "$",
+                "rateToUSD": "1.34"
+            }
+        }
+    },
+    {
+        "name": "Western Sahara",
+        "flag": "https://flagcdn.com/w320/eh.png",
+        "currencies": {
+            "DZD": {
+                "name": "Algerian dinar",
+                "symbol": "دج",
+                "rateToUSD": "0.94"
+            },
+            "MAD": {
+                "name": "Moroccan dirham",
+                "symbol": "DH"
+            },
+            "MRU": {
+                "name": "Mauritanian ouguiya",
+                "symbol": "UM"
+            }
+        }
+    },
+    {
+        "name": "Dominica",
+        "flag": "https://flagcdn.com/w320/dm.png",
+        "currencies": {
+            "XCD": {
+                "name": "Eastern Caribbean dollar",
+                "symbol": "$",
+                "rateToUSD": "1.41"
+            }
+        }
+    },
+    {
+        "name": "Costa Rica",
+        "flag": "https://flagcdn.com/w320/cr.png",
+        "currencies": {
+            "CRC": {
+                "name": "Costa Rican colón",
+                "symbol": "₡",
+                "rateToUSD": "2.00"
+            }
+        }
+    },
+    {
+        "name": "Australia",
+        "flag": "https://flagcdn.com/w320/au.png",
+        "currencies": {
+            "AUD": {
+                "name": "Australian dollar",
+                "symbol": "$",
+                "rateToUSD": "0.77"
+            }
+        }
+    },
+    {
+        "name": "Thailand",
+        "flag": "https://flagcdn.com/w320/th.png",
+        "currencies": {
+            "THB": {
+                "name": "Thai baht",
+                "symbol": "฿",
+                "rateToUSD": "1.23"
+            }
+        }
+    },
+    {
+        "name": "Haiti",
+        "flag": "https://flagcdn.com/w320/ht.png",
+        "currencies": {
+            "HTG": {
+                "name": "Haitian gourde",
+                "symbol": "G",
+                "rateToUSD": "0.65"
+            }
+        }
+    },
+    {
+        "name": "Tuvalu",
+        "flag": "https://flagcdn.com/w320/tv.png",
+        "currencies": {
+            "AUD": {
+                "name": "Australian dollar",
+                "symbol": "$",
+                "rateToUSD": "0.51"
+            },
+            "TVD": {
+                "name": "Tuvaluan dollar",
+                "symbol": "$"
+            }
+        }
+    },
+    {
+        "name": "Honduras",
+        "flag": "https://flagcdn.com/w320/hn.png",
+        "currencies": {
+            "HNL": {
+                "name": "Honduran lempira",
+                "symbol": "L",
+                "rateToUSD": "1.77"
+            }
+        }
+    },
+    {
+        "name": "Equatorial Guinea",
+        "flag": "https://flagcdn.com/w320/gq.png",
+        "currencies": {
+            "XAF": {
+                "name": "Central African CFA franc",
+                "symbol": "Fr",
+                "rateToUSD": "1.96"
+            }
+        }
+    },
+    {
+        "name": "Saint Lucia",
+        "flag": "https://flagcdn.com/w320/lc.png",
+        "currencies": {
+            "XCD": {
+                "name": "Eastern Caribbean dollar",
+                "symbol": "$",
+                "rateToUSD": "1.24"
+            }
+        }
+    },
+    {
+        "name": "French Polynesia",
+        "flag": "https://flagcdn.com/w320/pf.png",
+        "currencies": {
+            "XPF": {
+                "name": "CFP franc",
+                "symbol": "₣",
+                "rateToUSD": "1.22"
+            }
+        }
+    },
+    {
+        "name": "Belarus",
+        "flag": "https://flagcdn.com/w320/by.png",
+        "currencies": {
+            "BYN": {
+                "name": "Belarusian ruble",
+                "symbol": "Br",
+                "rateToUSD": "1.59"
+            }
+        }
+    },
+    {
+        "name": "Latvia",
+        "flag": "https://flagcdn.com/w320/lv.png",
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "€",
+                "rateToUSD": "0.51"
+            }
+        }
+    },
+    {
+        "name": "Palau",
+        "flag": "https://flagcdn.com/w320/pw.png",
+        "currencies": {
+            "USD": {
+                "name": "United States dollar",
+                "symbol": "$",
+                "rateToUSD": "1.01"
+            }
+        }
+    },
+    {
+        "name": "Guadeloupe",
+        "flag": "https://flagcdn.com/w320/gp.png",
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "€",
+                "rateToUSD": "1.13"
+            }
+        }
+    },
+    {
+        "name": "Philippines",
+        "flag": "https://flagcdn.com/w320/ph.png",
+        "currencies": {
+            "PHP": {
+                "name": "Philippine peso",
+                "symbol": "₱",
+                "rateToUSD": "0.89"
+            }
+        }
+    },
+    {
+        "name": "Gibraltar",
+        "flag": "https://flagcdn.com/w320/gi.png",
+        "currencies": {
+            "GIP": {
+                "name": "Gibraltar pound",
+                "symbol": "£",
+                "rateToUSD": "0.81"
+            }
+        }
+    },
+    {
+        "name": "Denmark",
+        "flag": "https://flagcdn.com/w320/dk.png",
+        "currencies": {
+            "DKK": {
+                "name": "Danish krone",
+                "symbol": "kr",
+                "rateToUSD": "1.45"
+            }
+        }
+    },
+    {
+        "name": "Cameroon",
+        "flag": "https://flagcdn.com/w320/cm.png",
+        "currencies": {
+            "XAF": {
+                "name": "Central African CFA franc",
+                "symbol": "Fr",
+                "rateToUSD": "1.94"
+            }
+        }
+    },
+    {
+        "name": "Guinea",
+        "flag": "https://flagcdn.com/w320/gn.png",
+        "currencies": {
+            "GNF": {
+                "name": "Guinean franc",
+                "symbol": "Fr",
+                "rateToUSD": "0.97"
+            }
+        }
+    },
+    {
+        "name": "Bahrain",
+        "flag": "https://flagcdn.com/w320/bh.png",
+        "currencies": {
+            "BHD": {
+                "name": "Bahraini dinar",
+                "symbol": ".د.ب",
+                "rateToUSD": "0.61"
+            }
+        }
+    },
+    {
+        "name": "Suriname",
+        "flag": "https://flagcdn.com/w320/sr.png",
+        "currencies": {
+            "SRD": {
+                "name": "Surinamese dollar",
+                "symbol": "$",
+                "rateToUSD": "1.60"
+            }
+        }
+    },
+    {
+        "name": "DR Congo",
+        "flag": "https://flagcdn.com/w320/cd.png",
+        "currencies": {
+            "CDF": {
+                "name": "Congolese franc",
+                "symbol": "FC",
+                "rateToUSD": "1.62"
+            }
+        }
+    },
+    {
+        "name": "Somalia",
+        "flag": "https://flagcdn.com/w320/so.png",
+        "currencies": {
+            "SOS": {
+                "name": "Somali shilling",
+                "symbol": "Sh",
+                "rateToUSD": "1.32"
+            }
+        }
+    },
+    {
+        "name": "Czechia",
+        "flag": "https://flagcdn.com/w320/cz.png",
+        "currencies": {
+            "CZK": {
+                "name": "Czech koruna",
+                "symbol": "Kč",
+                "rateToUSD": "0.55"
+            }
+        }
+    },
+    {
+        "name": "New Caledonia",
+        "flag": "https://flagcdn.com/w320/nc.png",
+        "currencies": {
+            "XPF": {
+                "name": "CFP franc",
+                "symbol": "₣",
+                "rateToUSD": "0.95"
+            }
+        }
+    },
+    {
+        "name": "Vanuatu",
+        "flag": "https://flagcdn.com/w320/vu.png",
+        "currencies": {
+            "VUV": {
+                "name": "Vanuatu vatu",
+                "symbol": "Vt",
+                "rateToUSD": "1.95"
+            }
+        }
+    },
+    {
+        "name": "Saint Helena, Ascension and Tristan da Cunha",
+        "flag": "https://flagcdn.com/w320/sh.png",
+        "currencies": {
+            "GBP": {
+                "name": "Pound sterling",
+                "symbol": "£",
+                "rateToUSD": "1.14"
+            },
+            "SHP": {
+                "name": "Saint Helena pound",
+                "symbol": "£"
+            }
+        }
+    },
+    {
+        "name": "Togo",
+        "flag": "https://flagcdn.com/w320/tg.png",
+        "currencies": {
+            "XOF": {
+                "name": "West African CFA franc",
+                "symbol": "Fr",
+                "rateToUSD": "1.36"
+            }
+        }
+    },
+    {
+        "name": "British Virgin Islands",
+        "flag": "https://flagcdn.com/w320/vg.png",
+        "currencies": {
+            "USD": {
+                "name": "United States dollar",
+                "symbol": "$",
+                "rateToUSD": "1.13"
+            }
+        }
+    },
+    {
+        "name": "Kenya",
+        "flag": "https://flagcdn.com/w320/ke.png",
+        "currencies": {
+            "KES": {
+                "name": "Kenyan shilling",
+                "symbol": "Sh",
+                "rateToUSD": "1.14"
+            }
+        }
+    },
+    {
+        "name": "Niue",
+        "flag": "https://flagcdn.com/w320/nu.png",
+        "currencies": {
+            "NZD": {
+                "name": "New Zealand dollar",
+                "symbol": "$",
+                "rateToUSD": "0.76"
+            }
+        }
+    },
+    {
+        "name": "Heard Island and McDonald Islands",
+        "flag": "https://flagcdn.com/w320/hm.png"
+    },
+    {
+        "name": "Rwanda",
+        "flag": "https://flagcdn.com/w320/rw.png",
+        "currencies": {
+            "RWF": {
+                "name": "Rwandan franc",
+                "symbol": "Fr",
+                "rateToUSD": "1.13"
+            }
+        }
+    },
+    {
+        "name": "Estonia",
+        "flag": "https://flagcdn.com/w320/ee.png",
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "€",
+                "rateToUSD": "1.20"
+            }
+        }
+    },
+    {
+        "name": "Romania",
+        "flag": "https://flagcdn.com/w320/ro.png",
+        "currencies": {
+            "RON": {
+                "name": "Romanian leu",
+                "symbol": "lei",
+                "rateToUSD": "1.10"
+            }
+        }
+    },
+    {
+        "name": "Trinidad and Tobago",
+        "flag": "https://flagcdn.com/w320/tt.png",
+        "currencies": {
+            "TTD": {
+                "name": "Trinidad and Tobago dollar",
+                "symbol": "$",
+                "rateToUSD": "1.80"
+            }
+        }
+    },
+    {
+        "name": "Guyana",
+        "flag": "https://flagcdn.com/w320/gy.png",
+        "currencies": {
+            "GYD": {
+                "name": "Guyanese dollar",
+                "symbol": "$",
+                "rateToUSD": "0.60"
+            }
+        }
+    },
+    {
+        "name": "Timor-Leste",
+        "flag": "https://flagcdn.com/w320/tl.png",
+        "currencies": {
+            "USD": {
+                "name": "United States dollar",
+                "symbol": "$",
+                "rateToUSD": "1.63"
+            }
+        }
+    },
+    {
+        "name": "Vietnam",
+        "flag": "https://flagcdn.com/w320/vn.png",
+        "currencies": {
+            "VND": {
+                "name": "Vietnamese đồng",
+                "symbol": "₫",
+                "rateToUSD": "0.61"
+            }
+        }
+    },
+    {
+        "name": "Uruguay",
+        "flag": "https://flagcdn.com/w320/uy.png",
+        "currencies": {
+            "UYU": {
+                "name": "Uruguayan peso",
+                "symbol": "$",
+                "rateToUSD": "0.83"
+            }
+        }
+    },
+    {
+        "name": "Vatican City",
+        "flag": "https://flagcdn.com/w320/va.png",
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "€",
+                "rateToUSD": "1.34"
+            }
+        }
+    },
+    {
+        "name": "Hong Kong",
+        "flag": "https://flagcdn.com/w320/hk.png",
+        "currencies": {
+            "HKD": {
+                "name": "Hong Kong dollar",
+                "symbol": "$",
+                "rateToUSD": "0.52"
+            }
+        }
+    },
+    {
+        "name": "Austria",
+        "flag": "https://flagcdn.com/w320/at.png",
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "€",
+                "rateToUSD": "0.59"
+            }
+        }
+    },
+    {
+        "name": "Antigua and Barbuda",
+        "flag": "https://flagcdn.com/w320/ag.png",
+        "currencies": {
+            "XCD": {
+                "name": "Eastern Caribbean dollar",
+                "symbol": "$",
+                "rateToUSD": "0.61"
+            }
+        }
+    },
+    {
+        "name": "Turkmenistan",
+        "flag": "https://flagcdn.com/w320/tm.png",
+        "currencies": {
+            "TMT": {
+                "name": "Turkmenistan manat",
+                "symbol": "m",
+                "rateToUSD": "1.32"
+            }
+        }
+    },
+    {
+        "name": "Mozambique",
+        "flag": "https://flagcdn.com/w320/mz.png",
+        "currencies": {
+            "MZN": {
+                "name": "Mozambican metical",
+                "symbol": "MT",
+                "rateToUSD": "1.68"
+            }
+        }
+    },
+    {
+        "name": "Panama",
+        "flag": "https://flagcdn.com/w320/pa.png",
+        "currencies": {
+            "PAB": {
+                "name": "Panamanian balboa",
+                "symbol": "B/.",
+                "rateToUSD": "0.78"
+            },
+            "USD": {
+                "name": "United States dollar",
+                "symbol": "$"
+            }
+        }
+    },
+    {
+        "name": "Micronesia",
+        "flag": "https://flagcdn.com/w320/fm.png",
+        "currencies": {
+            "USD": {
+                "name": "United States dollar",
+                "symbol": "$",
+                "rateToUSD": "0.58"
+            }
+        }
+    },
+    {
+        "name": "Ireland",
+        "flag": "https://flagcdn.com/w320/ie.png",
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "€",
+                "rateToUSD": "0.90"
+            }
+        }
+    },
+    {
+        "name": "Curaçao",
+        "flag": "https://flagcdn.com/w320/cw.png",
+        "currencies": {
+            "ANG": {
+                "name": "Netherlands Antillean guilder",
+                "symbol": "ƒ",
+                "rateToUSD": "1.98"
+            }
+        }
+    },
+    {
+        "name": "French Guiana",
+        "flag": "https://flagcdn.com/w320/gf.png",
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "€",
+                "rateToUSD": "1.06"
+            }
+        }
+    },
+    {
+        "name": "Norway",
+        "flag": "https://flagcdn.com/w320/no.png",
+        "currencies": {
+            "NOK": {
+                "name": "Norwegian krone",
+                "symbol": "kr",
+                "rateToUSD": "0.51"
+            }
+        }
+    },
+    {
+        "name": "Åland Islands",
+        "flag": "https://flagcdn.com/w320/ax.png",
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "€",
+                "rateToUSD": "0.59"
+            }
+        }
+    },
+    {
+        "name": "Central African Republic",
+        "flag": "https://flagcdn.com/w320/cf.png",
+        "currencies": {
+            "XAF": {
+                "name": "Central African CFA franc",
+                "symbol": "Fr",
+                "rateToUSD": "1.48"
+            }
+        }
+    },
+    {
+        "name": "Burkina Faso",
+        "flag": "https://flagcdn.com/w320/bf.png",
+        "currencies": {
+            "XOF": {
+                "name": "West African CFA franc",
+                "symbol": "Fr",
+                "rateToUSD": "1.65"
+            }
+        }
+    },
+    {
+        "name": "Eritrea",
+        "flag": "https://flagcdn.com/w320/er.png",
+        "currencies": {
+            "ERN": {
+                "name": "Eritrean nakfa",
+                "symbol": "Nfk",
+                "rateToUSD": "0.55"
+            }
+        }
+    },
+    {
+        "name": "Tanzania",
+        "flag": "https://flagcdn.com/w320/tz.png",
+        "currencies": {
+            "TZS": {
+                "name": "Tanzanian shilling",
+                "symbol": "Sh",
+                "rateToUSD": "0.93"
+            }
+        }
+    },
+    {
+        "name": "South Korea",
+        "flag": "https://flagcdn.com/w320/kr.png",
+        "currencies": {
+            "KRW": {
+                "name": "South Korean won",
+                "symbol": "₩",
+                "rateToUSD": "1.96"
+            }
+        }
+    },
+    {
+        "name": "Jordan",
+        "flag": "https://flagcdn.com/w320/jo.png",
+        "currencies": {
+            "JOD": {
+                "name": "Jordanian dinar",
+                "symbol": "د.ا",
+                "rateToUSD": "1.31"
+            }
+        }
+    },
+    {
+        "name": "Mauritania",
+        "flag": "https://flagcdn.com/w320/mr.png",
+        "currencies": {
+            "MRU": {
+                "name": "Mauritanian ouguiya",
+                "symbol": "UM",
+                "rateToUSD": "0.64"
+            }
+        }
+    },
+    {
+        "name": "Lithuania",
+        "flag": "https://flagcdn.com/w320/lt.png",
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "€",
+                "rateToUSD": "0.66"
+            }
+        }
+    },
+    {
+        "name": "United States Minor Outlying Islands",
+        "flag": "https://flagcdn.com/w320/um.png",
+        "currencies": {
+            "USD": {
+                "name": "United States dollar",
+                "symbol": "$",
+                "rateToUSD": "1.84"
+            }
+        }
+    },
+    {
+        "name": "Slovakia",
+        "flag": "https://flagcdn.com/w320/sk.png",
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "€",
+                "rateToUSD": "1.93"
+            }
+        }
+    },
+    {
+        "name": "Angola",
+        "flag": "https://flagcdn.com/w320/ao.png",
+        "currencies": {
+            "AOA": {
+                "name": "Angolan kwanza",
+                "symbol": "Kz",
+                "rateToUSD": "1.94"
+            }
+        }
+    },
+    {
+        "name": "Kazakhstan",
+        "flag": "https://flagcdn.com/w320/kz.png",
+        "currencies": {
+            "KZT": {
+                "name": "Kazakhstani tenge",
+                "symbol": "₸",
+                "rateToUSD": "1.87"
+            }
+        }
+    },
+    {
+        "name": "Moldova",
+        "flag": "https://flagcdn.com/w320/md.png",
+        "currencies": {
+            "MDL": {
+                "name": "Moldovan leu",
+                "symbol": "L",
+                "rateToUSD": "0.90"
+            }
+        }
+    },
+    {
+        "name": "Mali",
+        "flag": "https://flagcdn.com/w320/ml.png",
+        "currencies": {
+            "XOF": {
+                "name": "West African CFA franc",
+                "symbol": "Fr",
+                "rateToUSD": "1.88"
+            }
+        }
+    },
+    {
+        "name": "Falkland Islands",
+        "flag": "https://flagcdn.com/w320/fk.png",
+        "currencies": {
+            "FKP": {
+                "name": "Falkland Islands pound",
+                "symbol": "£",
+                "rateToUSD": "0.73"
+            }
+        }
+    },
+    {
+        "name": "Armenia",
+        "flag": "https://flagcdn.com/w320/am.png",
+        "currencies": {
+            "AMD": {
+                "name": "Armenian dram",
+                "symbol": "֏",
+                "rateToUSD": "1.01"
+            }
+        }
+    },
+    {
+        "name": "Samoa",
+        "flag": "https://flagcdn.com/w320/ws.png",
+        "currencies": {
+            "WST": {
+                "name": "Samoan tālā",
+                "symbol": "T",
+                "rateToUSD": "1.40"
+            }
+        }
+    },
+    {
+        "name": "Jersey",
+        "flag": "https://flagcdn.com/w320/je.png",
+        "currencies": {
+            "GBP": {
+                "name": "British pound",
+                "symbol": "£",
+                "rateToUSD": "1.84"
+            },
+            "JEP": {
+                "name": "Jersey pound",
+                "symbol": "£"
+            }
+        }
+    },
+    {
+        "name": "Japan",
+        "flag": "https://flagcdn.com/w320/jp.png",
+        "currencies": {
+            "JPY": {
+                "name": "Japanese yen",
+                "symbol": "¥",
+                "rateToUSD": "1.55"
+            }
+        }
+    },
+    {
+        "name": "Bolivia",
+        "flag": "https://flagcdn.com/w320/bo.png",
+        "currencies": {
+            "BOB": {
+                "name": "Bolivian boliviano",
+                "symbol": "Bs.",
+                "rateToUSD": "0.79"
+            }
+        }
+    },
+    {
+        "name": "Chile",
+        "flag": "https://flagcdn.com/w320/cl.png",
+        "currencies": {
+            "CLP": {
+                "name": "Chilean peso",
+                "symbol": "$",
+                "rateToUSD": "1.63"
+            }
+        }
+    },
+    {
+        "name": "United States",
+        "flag": "https://flagcdn.com/w320/us.png",
+        "currencies": {
+            "USD": {
+                "name": "United States dollar",
+                "symbol": "$",
+                "rateToUSD": "1.30"
+            }
+        }
+    },
+    {
+        "name": "Saint Vincent and the Grenadines",
+        "flag": "https://flagcdn.com/w320/vc.png",
+        "currencies": {
+            "XCD": {
+                "name": "Eastern Caribbean dollar",
+                "symbol": "$",
+                "rateToUSD": "1.77"
+            }
+        }
+    },
+    {
+        "name": "Bermuda",
+        "flag": "https://flagcdn.com/w320/bm.png",
+        "currencies": {
+            "BMD": {
+                "name": "Bermudian dollar",
+                "symbol": "$",
+                "rateToUSD": "0.83"
+            }
+        }
+    },
+    {
+        "name": "Seychelles",
+        "flag": "https://flagcdn.com/w320/sc.png",
+        "currencies": {
+            "SCR": {
+                "name": "Seychellois rupee",
+                "symbol": "₨",
+                "rateToUSD": "1.91"
+            }
+        }
+    },
+    {
+        "name": "British Indian Ocean Territory",
+        "flag": "https://flagcdn.com/w320/io.png",
+        "currencies": {
+            "USD": {
+                "name": "United States dollar",
+                "symbol": "$",
+                "rateToUSD": "0.78"
+            }
+        }
+    },
+    {
+        "name": "Guatemala",
+        "flag": "https://flagcdn.com/w320/gt.png",
+        "currencies": {
+            "GTQ": {
+                "name": "Guatemalan quetzal",
+                "symbol": "Q",
+                "rateToUSD": "1.13"
+            }
+        }
+    },
+    {
+        "name": "Ecuador",
+        "flag": "https://flagcdn.com/w320/ec.png",
+        "currencies": {
+            "USD": {
+                "name": "United States dollar",
+                "symbol": "$",
+                "rateToUSD": "1.10"
+            }
+        }
+    },
+    {
+        "name": "Martinique",
+        "flag": "https://flagcdn.com/w320/mq.png",
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "€",
+                "rateToUSD": "1.71"
+            }
+        }
+    },
+    {
+        "name": "Tajikistan",
+        "flag": "https://flagcdn.com/w320/tj.png",
+        "currencies": {
+            "TJS": {
+                "name": "Tajikistani somoni",
+                "symbol": "ЅМ",
+                "rateToUSD": "1.83"
+            }
+        }
+    },
+    {
+        "name": "Malta",
+        "flag": "https://flagcdn.com/w320/mt.png",
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "€",
+                "rateToUSD": "0.59"
+            }
+        }
+    },
+    {
+        "name": "Gambia",
+        "flag": "https://flagcdn.com/w320/gm.png",
+        "currencies": {
+            "GMD": {
+                "name": "dalasi",
+                "symbol": "D",
+                "rateToUSD": "1.68"
+            }
+        }
+    },
+    {
+        "name": "Nigeria",
+        "flag": "https://flagcdn.com/w320/ng.png",
+        "currencies": {
+            "NGN": {
+                "name": "Nigerian naira",
+                "symbol": "₦",
+                "rateToUSD": "1.79"
+            }
+        }
+    },
+    {
+        "name": "Bahamas",
+        "flag": "https://flagcdn.com/w320/bs.png",
+        "currencies": {
+            "BSD": {
+                "name": "Bahamian dollar",
+                "symbol": "$",
+                "rateToUSD": "1.84"
+            },
+            "USD": {
+                "name": "United States dollar",
+                "symbol": "$"
+            }
+        }
+    },
+    {
+        "name": "Kosovo",
+        "flag": "https://flagcdn.com/w320/xk.png",
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "€",
+                "rateToUSD": "0.76"
+            }
+        }
+    },
+    {
+        "name": "Kuwait",
+        "flag": "https://flagcdn.com/w320/kw.png",
+        "currencies": {
+            "KWD": {
+                "name": "Kuwaiti dinar",
+                "symbol": "د.ك",
+                "rateToUSD": "1.30"
+            }
+        }
+    },
+    {
+        "name": "Maldives",
+        "flag": "https://flagcdn.com/w320/mv.png",
+        "currencies": {
+            "MVR": {
+                "name": "Maldivian rufiyaa",
+                "symbol": ".ރ",
+                "rateToUSD": "1.75"
+            }
+        }
+    },
+    {
+        "name": "South Sudan",
+        "flag": "https://flagcdn.com/w320/ss.png",
+        "currencies": {
+            "SSP": {
+                "name": "South Sudanese pound",
+                "symbol": "£",
+                "rateToUSD": "0.93"
+            }
+        }
+    },
+    {
+        "name": "Iran",
+        "flag": "https://flagcdn.com/w320/ir.png",
+        "currencies": {
+            "IRR": {
+                "name": "Iranian rial",
+                "symbol": "﷼",
+                "rateToUSD": "1.34"
+            }
+        }
+    },
+    {
+        "name": "Albania",
+        "flag": "https://flagcdn.com/w320/al.png",
+        "currencies": {
+            "ALL": {
+                "name": "Albanian lek",
+                "symbol": "L",
+                "rateToUSD": "0.69"
+            }
+        }
+    },
+    {
+        "name": "Brazil",
+        "flag": "https://flagcdn.com/w320/br.png",
+        "currencies": {
+            "BRL": {
+                "name": "Brazilian real",
+                "symbol": "R$",
+                "rateToUSD": "0.54"
+            }
+        }
+    },
+    {
+        "name": "Serbia",
+        "flag": "https://flagcdn.com/w320/rs.png",
+        "currencies": {
+            "RSD": {
+                "name": "Serbian dinar",
+                "symbol": "дин.",
+                "rateToUSD": "1.62"
+            }
+        }
+    },
+    {
+        "name": "Belize",
+        "flag": "https://flagcdn.com/w320/bz.png",
+        "currencies": {
+            "BZD": {
+                "name": "Belize dollar",
+                "symbol": "$",
+                "rateToUSD": "1.47"
+            }
+        }
+    },
+    {
+        "name": "Myanmar",
+        "flag": "https://flagcdn.com/w320/mm.png",
+        "currencies": {
+            "MMK": {
+                "name": "Burmese kyat",
+                "symbol": "Ks",
+                "rateToUSD": "0.88"
+            }
+        }
+    },
+    {
+        "name": "Bhutan",
+        "flag": "https://flagcdn.com/w320/bt.png",
+        "currencies": {
+            "BTN": {
+                "name": "Bhutanese ngultrum",
+                "symbol": "Nu.",
+                "rateToUSD": "1.79"
+            },
+            "INR": {
+                "name": "Indian rupee",
+                "symbol": "₹"
+            }
+        }
+    },
+    {
+        "name": "Venezuela",
+        "flag": "https://flagcdn.com/w320/ve.png",
+        "currencies": {
+            "VES": {
+                "name": "Venezuelan bolívar soberano",
+                "symbol": "Bs.S.",
+                "rateToUSD": "1.74"
+            }
+        }
+    },
+    {
+        "name": "Liberia",
+        "flag": "https://flagcdn.com/w320/lr.png",
+        "currencies": {
+            "LRD": {
+                "name": "Liberian dollar",
+                "symbol": "$",
+                "rateToUSD": "1.19"
+            }
+        }
+    },
+    {
+        "name": "Jamaica",
+        "flag": "https://flagcdn.com/w320/jm.png",
+        "currencies": {
+            "JMD": {
+                "name": "Jamaican dollar",
+                "symbol": "$",
+                "rateToUSD": "0.69"
+            }
+        }
+    },
+    {
+        "name": "Poland",
+        "flag": "https://flagcdn.com/w320/pl.png",
+        "currencies": {
+            "PLN": {
+                "name": "Polish złoty",
+                "symbol": "zł",
+                "rateToUSD": "1.22"
+            }
+        }
+    },
+    {
+        "name": "Cayman Islands",
+        "flag": "https://flagcdn.com/w320/ky.png",
+        "currencies": {
+            "KYD": {
+                "name": "Cayman Islands dollar",
+                "symbol": "$",
+                "rateToUSD": "1.84"
+            }
+        }
+    },
+    {
+        "name": "Brunei",
+        "flag": "https://flagcdn.com/w320/bn.png",
+        "currencies": {
+            "BND": {
+                "name": "Brunei dollar",
+                "symbol": "$",
+                "rateToUSD": "1.14"
+            },
+            "SGD": {
+                "name": "Singapore dollar",
+                "symbol": "$"
+            }
+        }
+    },
+    {
+        "name": "Comoros",
+        "flag": "https://flagcdn.com/w320/km.png",
+        "currencies": {
+            "KMF": {
+                "name": "Comorian franc",
+                "symbol": "Fr",
+                "rateToUSD": "0.84"
+            }
+        }
+    },
+    {
+        "name": "Guam",
+        "flag": "https://flagcdn.com/w320/gu.png",
+        "currencies": {
+            "USD": {
+                "name": "United States dollar",
+                "symbol": "$",
+                "rateToUSD": "1.56"
+            }
+        }
+    },
+    {
+        "name": "Tonga",
+        "flag": "https://flagcdn.com/w320/to.png",
+        "currencies": {
+            "TOP": {
+                "name": "Tongan paʻanga",
+                "symbol": "T$",
+                "rateToUSD": "0.58"
+            }
+        }
+    },
+    {
+        "name": "Kiribati",
+        "flag": "https://flagcdn.com/w320/ki.png",
+        "currencies": {
+            "AUD": {
+                "name": "Australian dollar",
+                "symbol": "$",
+                "rateToUSD": "0.99"
+            },
+            "KID": {
+                "name": "Kiribati dollar",
+                "symbol": "$"
+            }
+        }
+    },
+    {
+        "name": "Ghana",
+        "flag": "https://flagcdn.com/w320/gh.png",
+        "currencies": {
+            "GHS": {
+                "name": "Ghanaian cedi",
+                "symbol": "₵",
+                "rateToUSD": "1.79"
+            }
+        }
+    },
+    {
+        "name": "Chad",
+        "flag": "https://flagcdn.com/w320/td.png",
+        "currencies": {
+            "XAF": {
+                "name": "Central African CFA franc",
+                "symbol": "Fr",
+                "rateToUSD": "1.42"
+            }
+        }
+    },
+    {
+        "name": "Zimbabwe",
+        "flag": "https://flagcdn.com/w320/zw.png",
+        "currencies": {
+            "ZWL": {
+                "name": "Zimbabwean dollar",
+                "symbol": "$",
+                "rateToUSD": "0.73"
+            }
+        }
+    },
+    {
+        "name": "Saint Martin",
+        "flag": "https://flagcdn.com/w320/mf.png",
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "€",
+                "rateToUSD": "1.67"
+            }
+        }
+    },
+    {
+        "name": "Mongolia",
+        "flag": "https://flagcdn.com/w320/mn.png",
+        "currencies": {
+            "MNT": {
+                "name": "Mongolian tögrög",
+                "symbol": "₮",
+                "rateToUSD": "1.09"
+            }
+        }
+    },
+    {
+        "name": "Portugal",
+        "flag": "https://flagcdn.com/w320/pt.png",
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "€",
+                "rateToUSD": "1.74"
+            }
+        }
+    },
+    {
+        "name": "American Samoa",
+        "flag": "https://flagcdn.com/w320/as.png",
+        "currencies": {
+            "USD": {
+                "name": "United States dollar",
+                "symbol": "$",
+                "rateToUSD": "1.74"
+            }
+        }
+    },
+    {
+        "name": "Republic of the Congo",
+        "flag": "https://flagcdn.com/w320/cg.png",
+        "currencies": {
+            "XAF": {
+                "name": "Central African CFA franc",
+                "symbol": "Fr",
+                "rateToUSD": "0.98"
+            }
+        }
+    },
+    {
+        "name": "Belgium",
+        "flag": "https://flagcdn.com/w320/be.png",
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "€",
+                "rateToUSD": "0.56"
+            }
+        }
+    },
+    {
+        "name": "Israel",
+        "flag": "https://flagcdn.com/w320/il.png",
+        "currencies": {
+            "ILS": {
+                "name": "Israeli new shekel",
+                "symbol": "₪",
+                "rateToUSD": "1.14"
+            }
+        }
+    },
+    {
+        "name": "New Zealand",
+        "flag": "https://flagcdn.com/w320/nz.png",
+        "currencies": {
+            "NZD": {
+                "name": "New Zealand dollar",
+                "symbol": "$",
+                "rateToUSD": "1.26"
+            }
+        }
+    },
+    {
+        "name": "Nicaragua",
+        "flag": "https://flagcdn.com/w320/ni.png",
+        "currencies": {
+            "NIO": {
+                "name": "Nicaraguan córdoba",
+                "symbol": "C$",
+                "rateToUSD": "1.39"
+            }
+        }
+    },
+    {
+        "name": "Anguilla",
+        "flag": "https://flagcdn.com/w320/ai.png",
+        "currencies": {
+            "XCD": {
+                "name": "Eastern Caribbean dollar",
+                "symbol": "$",
+                "rateToUSD": "0.65"
+            }
+        }
+    }
+]
